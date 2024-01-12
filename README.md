@@ -1,5 +1,6 @@
 
-<img alt="Coding" style="border-radius:16px;" src="./images/background.png">
+<img alt="Coding" style="border-radius:16px;" src="![background](https://github.com/Areeb-Ali/Areeb-Ali/assets/153509265/1af8e883-249d-4a46-bef4-4140c2d0c729)
+">
 
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
 
